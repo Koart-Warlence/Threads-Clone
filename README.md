@@ -59,14 +59,15 @@
    ```
 
    Replace
-   `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` with your Clerk Publishable key.
-   `CLERK_SECRET_KEY=YOUR_CLERK_SECRET_KEY` with your Clerk Secret key.
-   `NEXT_CLERK_WEBHOOK_SECRET` with your Clerk Webhook secret.
-   `MONGODB_URL` with your MongoDB connection string.
-   `UPLOADTHING_SECRET` with your UploadThing secret.
-   `UPLOADTHING_APP_ID` with your UploadThing application ID.
 
-   Make sure to replace these values with the respective actual values.
+- `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` with your Clerk Publishable key.
+- `CLERK_SECRET_KEY=YOUR_CLERK_SECRET_KEY` with your Clerk Secret key.
+- `NEXT_CLERK_WEBHOOK_SECRET` with your Clerk Webhook secret.
+- `MONGODB_URL` with your MongoDB connection string.
+- `UPLOADTHING_SECRET` with your UploadThing secret.
+- `UPLOADTHING_APP_ID` with your UploadThing application ID.
+
+  Make sure to replace these values with the respective actual values.
 
 5. Start the project:
 
