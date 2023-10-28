@@ -91,8 +91,9 @@ If you want to contribute to Threads Clone, follow these steps:
 
 - Next.js Official Website: [https://nextjs.org/](https://nextjs.org/)
 - shadcn/ui GitHub Repository: [https://github.com/shadcn/ui](https://github.com/shadcn/ui)
-- Clerk Official Website: [https://clerk.dev/](https://clerk.dev/)
+- UploadThing Official Website: [https://uploadthing.com/](https://uploadthing.com/)
 - MongoDB Official Website: [https://www.mongodb.com/](https://www.mongodb.com/)
+- Clerk Official Website: [https://clerk.dev/](https://clerk.dev/)
 - Vercel Official Website: [https://vercel.com/](https://vercel.com/)
 
 Thank you for using and contributing to Threads Clone! If you have any questions or suggestions, feel free to reach out.
