@@ -6,11 +6,16 @@
 
 1. Install dependencies:
 
+## Installation
+
+1. Install dependencies:
+
    ```
    npm install
    ```
 
 2. Set up environment variables: Create a `.env.local` file in the project root and configure the following environment variables:
+3. Set up environment variables: Create a `.env.local` file in the project root and configure the following environment variables:
 
    ```
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=YOUR_PUBLIC_CLERK_PUBLISHABLE_KEY
@@ -31,7 +36,7 @@
 
    Make sure to replace these values with the respective actual values.
 
-3. Start the project:
+4. Start the project:
 
    ```
    npm run dev
